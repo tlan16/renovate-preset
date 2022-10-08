@@ -4,7 +4,8 @@
     "enabled": false
   },
   "lockFileMaintenance": {
-    "enabled": true
+    "enabled": true,
+    "automerge": true
   },
   "cloneSubmodules": false,
   "extends": [
