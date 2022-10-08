@@ -1,0 +1,15 @@
+{
+  "dependencyDashboard": "true",
+  "git-submodules": {
+    "enabled": false
+  },
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "cloneSubmodules": false,
+  "extends": [
+    "config:base",
+    ":preserveSemverRanges",
+    ":timezone(Australia/Melbourne)"
+  ]
+}
