@@ -12,5 +12,7 @@
     "config:base",
     ":preserveSemverRanges",
     ":timezone(Australia/Melbourne)"
-  ]
+  ],
+  "rebaseWhen": "behind-base-branch",
+  "platformAutomerge": true
 }
